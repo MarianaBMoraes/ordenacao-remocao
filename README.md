@@ -1,2 +1,2 @@
 # ordenacao-remocao
-ordena e remove
+Ordena o array e remove os elementos duplicados
